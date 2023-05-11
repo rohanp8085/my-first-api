@@ -1,0 +1,36 @@
+    
+{  
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users" :[
+    { 
+       "id" : 1,
+     "title" : "Alu paratha",
+     "price" : 20,
+     "Quantity" : 1,
+     "image" : "https://cdn.shopify.com/s/files/1/0476/0115/6257/products/AlooParathacopy-min_1024x1024@2x.jpg?v=1616665846"
+    
+    },
+    {
+       "id" : 2,
+      "title" : "Methi paratha",
+      "price" : 25,
+      "Quantity" : 1,
+      "image" : "https://www.pngitem.com/pimgs/m/110-1105857_transparent-plate-png-paratha-images-hd-png-download.png"
+     
+     },{
+      "id" : 2,
+     "title" : "Methi paratha",
+     "price" : 25,
+     "Quantity" : 1,
+     "image" : "https://www.pngitem.com/pimgs/m/110-1105857_transparent-plate-png-paratha-images-hd-png-download.png"
+    
+    }
+  ]
+ 
+}
